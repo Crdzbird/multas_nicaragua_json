@@ -1,9 +1,9 @@
 {
   "categories":{
-    "0": "mayor_peligrosidad",
-    "1": "muy_peligrosas",
-    "2": "peligrosas",
-    "3": "menos_peligrosa"
+    "type": "mayor_peligrosidad",
+    "type": "muy_peligrosas",
+    "type": "peligrosas",
+    "type": "menos_peligrosa"
   },
   "fines":[
     {
