@@ -1,7 +1,7 @@
 {
   "categories":{
     "0": "mayor_peligrosidad",
-    "1": "peligrosas",
+    "1": "muy_peligrosas",
     "2": "peligrosas",
     "3": "menos_peligrosa"
   },
@@ -112,31 +112,31 @@
       "name": "Desatender luz o sirena de Cruz Roja, Policía o Bomberos",
       "price": 3000,
       "coin": "nio",
-      "category": "peligrosas"
+      "category": "muy_peligrosas"
     },
     {
       "name": "Mala maniobra",
       "price": 3000,
       "coin": "nio",
-      "category": "peligrosas"
+      "category": "muy_peligrosas"
     },
     {
       "name": "No portar lona los camiones",
       "price": 3000,
       "coin": "nio",
-      "category": "peligrosas"
+      "category": "muy_peligrosas"
     },
     {
       "name": "Obstruir el tránsito",
       "price": 3000,
       "coin": "nio",
-      "category": "peligrosas"
+      "category": "muy_peligrosas"
     },
     {
       "name": "Estacionamiento en lugares prohibidos",
       "price": 3000,
       "coin": "nio",
-      "category": "peligrosas"
+      "category": "muy_peligrosas"
     },
     
     {
