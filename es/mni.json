@@ -1,10 +1,5 @@
 {
-  "categories":{
-    "type": "mayor_peligrosidad",
-    "type": "muy_peligrosas",
-    "type": "peligrosas",
-    "type": "menos_peligrosa"
-  },
+  "categories":["mayor_peligrosidad","muy_peligrosas","peligrosas","menos_peligrosa"],
   "fines":[
     {
       "name": "Conducir en estado de ebriedad",
