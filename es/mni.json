@@ -5,132 +5,154 @@
       "name": "Conducir en estado de ebriedad",
       "price": 25000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "No tener Licencia de Conducir",
       "price": 25000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Andar con circulación que no corresponden al vehículo",
       "price": 10000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "No tener placa",
       "price": 10000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Usar placa de otro vehículo",
       "price": 10000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Exceso de velocidad",
       "price": 10000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Conducir con aliento alcohólico; pero no en estado de ebriedad",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Conducir contra la vía",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Aventajar en pendiente",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Desatender señales de Tránsito",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Aventajar en curvas",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Irrespetar la línea continua",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Conducir con las luces apagadas",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Vehículo en mal estado mecánico",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Transitar sin placa visible",
       "price": 6000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Conducir con placas vencidas",
       "price": 2000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "No respetar el alto",
       "price": 2000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "mayor_peligrosidad"
     },
     {
       "name": "Desatender luz o sirena de Cruz Roja, Policía o Bomberos",
       "price": 3000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "muy_peligrosas"
     },
     {
       "name": "Mala maniobra",
       "price": 3000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "muy_peligrosas"
     },
     {
       "name": "No portar lona los camiones",
       "price": 3000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "muy_peligrosas"
     },
     {
       "name": "Obstruir el tránsito",
       "price": 3000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "muy_peligrosas"
     },
     {
       "name": "Estacionamiento en lugares prohibidos",
       "price": 3000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "muy_peligrosas"
     },
     
@@ -138,36 +160,42 @@
       "name": "Estacionarse en parada de buses",
       "price": 2000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "peligrosas"
     },
     {
       "name": "Conducir con puertas abiertas",
       "price": 2000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "peligrosas"
     },
     {
       "name": "Exceso de pasajeros",
       "price": 2000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "peligrosas"
     },
     {
       "name": "No portar casco los motociclistas",
       "price": 2000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "peligrosas"
     },
     {
       "name": "Licencia vencida",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "peligrosas"
     },
     {
       "name": "No portar licencia",
       "price": 2000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "peligrosas"
     },
     
@@ -176,66 +204,77 @@
       "name": "Conducir fuera de ruta",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "Exceso de carga",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "Recoger pasajeros fuera de ruta",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "Ruidos innecesarios",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "No andar el revisado",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "No guardar la distancia",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "Mal estacionamiento",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "Estacionamiento frente a hidrantes",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "Estacionamiento frente a garajes",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "Estacionamiento sobre aceras",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     },
     {
       "name": "No portar circulación",
       "price": 1000,
       "coin": "nio",
+      "images": ["https://www.hikvision.com/content/hikvision/ar/newsroom/latest-news/2020/reduce-road-accidents-and-minimize-congestion-with-hikvision-s-traffic-violation-detection-solution/_jcr_content/root/responsivegrid/image.coreimg.100.768.png/1604212079315/article-banner-911x400.png"],
       "category": "menos_peligrosa"
     }
   ],
